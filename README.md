@@ -25,12 +25,6 @@ This project is a comprehensive training module designed to educate users on rec
 3. **Walkthrough Video**:
    - [Watch the Walkthrough Video](#) (Add your video link here).
 
-## 🛠️ Tools Used
-- **Design**: Canva, PowerPoint, or Google Slides.
-- **Screen Recording**: Loom or OBS Studio.
-- **Editing**: DaVinci Resolve or Canva Pro.
-
-## 📖 How to Use
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/yourusername/phishing-awareness-training.git
