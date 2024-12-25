@@ -23,7 +23,7 @@ This project is a comprehensive training module designed to educate users on rec
    - Simulated phishing emails and websites for hands-on learning.
 
 3. **Walkthrough Video**:
-   - [Watch the Walkthrough Video](#) (Add your video link here).
+   - [Watch the Walkthrough Video](#) (https://www.loom.com/share/274469825c4a471db9534864a14ee088?sid=cd95b3c4-ce88-4c97-811f-8f4d8d626a73).
 
 1. Clone or download this repository:
    ```bash
